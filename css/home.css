@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Mulish&display=swap');
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.flex-container {
+  display: 100%;
+  display: flex;
+}
+
+.first {
+  flex: 1;
+  position: relative;
+}
+
+.right {
+  flex: 1;
+  position: relative;
+}
+
+.headline {
+  position: absolute;
+  top: 364px;
+  margin-left: 110px;
+}
+
+.right-box {
+  font-family: 'Inter', sans-serif;
+  top: 100px;
+  left: 0;
+  position: relative;
+}
+
+.image-1 {
+  position: absolute;
+  top: 100px;
+  margin-left: 759px;
+}
+
+.filter-1 {
+  position: absolute;
+  top: 100px;
+  margin-left: 759px;
+}
+
+.image-2 {
+  position: absolute;
+  top: 70px;
+  margin-left: 890px;
+}
+
+.filter-2 {
+  position: absolute;
+  top: 70px;
+  margin-left: 890px;
+}
+
+.image-3 {
+  position: absolute;
+  top: 40px;
+  margin-left: 1021px;
+}
+
+.filter-3 {
+  position: absolute;
+  top: 40px;
+  margin-left: 1021px;
+}
