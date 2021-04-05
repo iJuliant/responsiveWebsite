@@ -64,6 +64,14 @@
   left: 108px;
 }
 
+#num-1 {
+  position: absolute;
+  font-size: 30px;
+  top: 398px;
+  left: 125px;
+  color: #5F2EEa;
+}
+
 #tag-progress-2 {
   position: absolute;
   left: 170px;
@@ -90,6 +98,14 @@
   left: 108px;
 }
 
+#num-2 {
+  position: absolute;
+  font-size: 30px;
+  top: 494px;
+  left: 125px;
+  color: white;
+}
+
 #tag-progress-3 {
   position: absolute;
   left: 170px;
@@ -102,6 +118,14 @@
   position: absolute;
   top: 583px;
   left: 108px;
+}
+
+#num-3 {
+  position: absolute;
+  font-size: 30px;
+  top: 588px;
+  left: 125px;
+  color: white;
 }
 
 .right-box {
