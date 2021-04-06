@@ -1,0 +1,116 @@
+li {
+  list-style: none;
+}
+
+.profile-pict {
+  margin-left: 30%;
+  width: 70%;
+}
+
+.search-button {
+  padding-top: 80%;
+  width: 80%;
+}
+
+.base {
+  background-color:  #D6D8E7;
+  padding-top: 5%;
+  padding-left: 14%;
+}
+
+#movie-selected {
+  padding-bottom: 5%;
+  /* padding-top: 5%;
+  padding-left: 14%; */
+}
+
+#choose-seat {
+  padding-top: 5%;
+}
+
+#order-info {
+  padding-bottom: 5%;
+  margin-left: 5%;
+  /* padding-top: 5%;
+  padding-left: 14%; */
+}
+
+.inside-base {
+  background-color: white;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+
+.selected-movie-title {
+  padding-left: 10px;
+  padding-top: 2px;
+}
+
+.button-change {
+  padding-right: 10px;
+  padding-top: 2px;
+}
+
+.order-info-box {
+  background-color: white;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.img-cinema {
+  padding-top: 5%;
+}
+
+.selector-inside {
+  font-size: 80%;
+  padding-left: 4%;
+}
+
+.properties-inside {
+  font-size: 80%;
+  padding-right: 4%;
+}
+
+.button-change-movie {
+  margin-top: 10%;
+  margin-bottom: 10%;
+  width: 200px;
+}
+
+.tickitz-footer {
+  width: 40%;
+  margin-top: 10%;
+  margin-left: 10%;
+}
+
+.quotes {
+  margin-top: 10%;
+  margin-left: 10%;
+}
+
+.explore {
+  font-size: 80%;
+  margin-top: 10%;
+  margin-left: 10%;
+}
+
+.sub-explore {
+  font-size: 80%;
+  margin-top: 0%;
+  margin-left: 10%;
+}
+
+.cineone {
+  width: 40%;
+  margin-top: 10%;
+  margin-left: 10%; 
+}
+
+.social {
+  margin-top: 2%;
+  font-size: 80%;
+  opacity: 80%;
+}

@@ -1,0 +1,57 @@
+li {
+  list-style: none;
+}
+
+.profile-pict {
+  margin-left: 30%;
+  width: 70%;
+}
+
+.search-button {
+  padding-top: 80%;
+  width: 80%;
+} 
+
+.base {
+  background-color: #E5E5E5;
+}
+
+.ticket {
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.tickitz-footer {
+  width: 40%;
+  margin-top: 10%;
+  margin-left: 10%;
+}
+
+.quotes {
+  margin-top: 10%;
+  margin-left: 10%;
+}
+
+.explore {
+  font-size: 80%;
+  margin-top: 10%;
+  margin-left: 10%;
+}
+
+.sub-explore {
+  font-size: 80%;
+  margin-top: 0%;
+  margin-left: 10%;
+}
+
+.cineone {
+  width: 40%;
+  margin-top: 10%;
+  margin-left: 10%; 
+}
+
+.social {
+  margin-top: 2%;
+  font-size: 80%;
+  opacity: 80%;
+}
